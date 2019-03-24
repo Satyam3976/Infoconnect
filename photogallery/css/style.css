@@ -830,7 +830,8 @@ ol {
 
 .gallery-single-text h2 {
 	margin-bottom: 30px;
-	font-size: 48px;
+	margin-top: -58px;
+	font-size: 42px;
 }
 
 .gallery-single-text p {
@@ -910,7 +911,7 @@ ol {
 }
 
 .blog-post .post-title {
-	font-size: 48px;
+	font-size: 32px;
 	margin-bottom: 20px;
 }
 
@@ -1549,4 +1550,8 @@ ol {
 	.blog-page {
 		padding: 100px 15px 0;
 	}
+}
+
+#try {
+	max-width: 50%;
 }
